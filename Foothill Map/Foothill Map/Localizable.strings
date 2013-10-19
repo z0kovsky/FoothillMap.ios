@@ -1,0 +1,18 @@
+/****************************************************************************/
+/* Localization file */
+
+
+"Weekday" = "Weekday";
+"Schedule" = "Schedule";
+"Location" = "Location";
+"Title" = "Title";
+"Class Info" = "Class Info";
+"An Empty Title" = "An Empty Title";
+"A title cannot be an empty string" = "A title cannot be an empty string";
+"OK" = "OK";
+"Time" = "Time";
+"Duration" = "Duration";
+"%d min" = "%d min";
+"Foothill" = "Foothill";
+"Next: " = "Next: ";
+"Current: " = "Current: ";

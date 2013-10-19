@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[FHSchedule weekdayChangedDelegateMethod:oldWeekday:]:FHSchedule.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[allItems objectForKey:key]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FHMapSettings init]:FHMapSettings.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FHLocationCatalog locationForClass:]:FHLocationCatalog.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "loc.title">
+            </PersistentString>
+            <PersistentString
+               value = "[[loc.title lowercaseString] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FilterViewController tableView:cellForRowAtIndexPath:]:FilterViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[[FHMapSettings sharedSettings] allItems] allKeys]">
+            </PersistentString>
+            <PersistentString
+               value = "[[FHMapSettings sharedSettings] allItems]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController onTick:]:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[class weekday]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController viewDidLoad]:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSFoundationVersionNumber_iOS_6_1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WeekdayViewController tableView:didSelectRowAtIndexPath:]:WeekdayViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[weekdayComponents weekday]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FHSchedule removeItem:]:FHSchedule.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ScheduleViewController tableView:commitEditingStyle:forRowAtIndexPath:]:ScheduleViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[FHSchedule sharedSchedule] allItems]">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ClassDetailViewController textField:shouldChangeCharactersInRange:replacementString:]:ClassDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ScheduleViewController sectionWeekday:]:ScheduleViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[[FHSchedule sharedSchedule] allItems] allKeys]">
+            </PersistentString>
+            <PersistentString
+               value = "[[FHSchedule sharedSchedule] allItems]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FHSchedule addItem:]:FHSchedule.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[item timeString]">
+            </PersistentString>
+            <PersistentString
+               value = "[allItems objectForKey:key]">
+            </PersistentString>
+            <PersistentString
+               value = "[[array objectAtIndex:i] timeString]">
+            </PersistentString>
+            <PersistentString
+               value = "[array objectAtIndex:i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController addDefaultMarkers]:MapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController recalculateLabelPosition]:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_nextClassLabel.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController currentClass:updateView:]:MapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FHController initWithMap:Schedule:]:FHController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ClassDetailViewController tableView:didDeselectRowAtIndexPath:]:ClassDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "timePicker.hidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FHSchedule init]:FHSchedule.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FHController nextClassForTime:]:FHController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.time">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ScheduleViewController restoreData]:ScheduleViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[FHSchedule sharedSchedule] allItems]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController showChangedDelegateMethod:]:MapViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController initWithNibName:bundle:]:SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.foodButton">
+            </PersistentString>
+            <PersistentString
+               value = "self.foodButton.titleLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FHClass compareTime:]:FHClass.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[item timeString]">
+            </PersistentString>
+            <PersistentString
+               value = "[self timeString]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SettingsViewController viewWillAppear:]:SettingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.smokingButton.titleLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "self.foodButton">
+            </PersistentString>
+            <PersistentString
+               value = "setting.title">
+            </PersistentString>
+            <PersistentString
+               value = "self.foodButton.titleLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MapViewController showSettings:]:MapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self navigationController]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,9 @@
+<FilterSettings>
+ <filter title="Next" show="YES" category="Other" filter="NextClass"/>
+ <filter title="Current" show="YES" category="Other" filter="CurrentClass"/>
+ <filter title="All" show="YES" category="Other" filter="AllTodayClasses"/>
+ <filter title="Restroom" show="YES" category="Restroom"/>
+ <filter title="Food And Drinks" show="YES" category="FoodAndDrinks"/>
+ <filter title="Parking" show="YES" category="Parking"/>
+ <filter title="Smoking Area" show="YES" category="SmokingArea"/>
+</FilterSettings>
